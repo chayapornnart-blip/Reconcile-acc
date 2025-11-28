@@ -1,0 +1,5 @@
+{
+  "name": "SmartReconcile AI",
+  "description": "Intelligent financial reconciliation dashboard. Automatically matches bank transactions with book records using fuzzy logic for dates and exact invoice matching.",
+  "requestFramePermissions": []
+}

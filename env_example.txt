@@ -1,0 +1,5 @@
+# ตัวอย่างไฟล์ Environment Variables สำหรับ Vercel
+# ห้ามใส่ค่าจริงในไฟล์นี้ ให้ใส่ในหน้า Dashboard ของ Vercel (Project Settings > Environment Variables)
+
+# API Key สำหรับ AI Service (เช่น Gemini)
+VITE_API_KEY=
