@@ -10,7 +10,7 @@ import {
   BarChart, Bar, XAxis, YAxis, CartesianGrid
 } from 'recharts';
 import { 
-  Activity, CheckCircle, FileText, 
+  Activity, CheckCircle, 
   ArrowRightLeft, Database, RefreshCw, Lightbulb,
   TrendingUp, AlertTriangle, FileSearch
 } from 'lucide-react';
